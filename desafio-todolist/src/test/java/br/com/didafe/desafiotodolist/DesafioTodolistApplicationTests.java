@@ -1,4 +1,4 @@
-package br.com.didafe.desafio_todolist;
+package br.com.didafe.desafiotodolist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
